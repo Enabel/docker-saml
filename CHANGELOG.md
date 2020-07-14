@@ -5,6 +5,7 @@
 
 ### Miscellaneous
 
+- 📝 Fix readme [[b99eea9](https://github.com/Enabel/docker-saml/commit/b99eea9a3d33829af071160088be1d82ceba182d)]
 - 📝 Add changelog [[93a5a23](https://github.com/Enabel/docker-saml/commit/93a5a23969f589ba16cfa1dff9cb984f03c70df1)]
 
 
