@@ -1,5 +1,13 @@
 # Changelog
 
+<a name="1.0.1"></a>
+## 1.0.1 (2020-07-14)
+
+### Miscellaneous
+
+- 📝 Add changelog [[93a5a23](https://github.com/Enabel/docker-saml/commit/93a5a23969f589ba16cfa1dff9cb984f03c70df1)]
+
+
 <a name="1.0.0"></a>
 ## 1.0.0 (2020-07-14)
 

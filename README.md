@@ -19,7 +19,7 @@ docker run --name=testsaml2 \
 -e SIMPLESAMLPHP_SP_ENTITY_ID=https://localhost:8000/saml/metadata \
 -e SIMPLESAMLPHP_SP_ASSERTION_CONSUMER_SERVICE=https://localhost:8000/saml/acs \
 -e SIMPLESAMLPHP_SP_SINGLE_LOGOUT_SERVICE=https://localhost:8000/saml/logout \
--d enabel/saml
+-d docker.pkg.github.com/enabel/docker-saml/saml2:1.0.0
 ```
 
 There are two static users configured in the IdP with the following data:
