@@ -1,0 +1,8 @@
+{
+  "project": {
+    "name": "enabel/docker-saml",
+    "description": "Docker container with a plug and play SAML 2.0 for development and testing.",
+    "version": "1.0.0"
+  },
+  "preset": "generic"
+}
